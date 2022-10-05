@@ -8,6 +8,7 @@ const Home: NextPage = () => {
     <div>
       Pro Plan ユーザーを招待するプロジェクト
       <p>コミット１</p>
+      <p>コミット 2</p>
     </div>
   )
 }
