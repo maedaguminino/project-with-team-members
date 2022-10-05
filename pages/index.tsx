@@ -7,6 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       Pro Plan ユーザーを招待するプロジェクト
+      <p>コミット１</p>
     </div>
   )
 }
